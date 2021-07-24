@@ -1,0 +1,6 @@
+README.md
+setup.py
+semantic_image_search.egg-info/PKG-INFO
+semantic_image_search.egg-info/SOURCES.txt
+semantic_image_search.egg-info/dependency_links.txt
+semantic_image_search.egg-info/top_level.txt
